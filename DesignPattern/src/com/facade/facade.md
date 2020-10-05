@@ -1,13 +1,14 @@
-##½éÉÜ
-Facade Pattern Òþ²ØÏµÍ³µÄ¸´ÔÓÐÔ£¬²¢Ïò¿Í»§¶ËÌá¹©ÁËÒ»¸ö¿Í»§¶Ë¿ÉÒÔ·ÃÎÊÏµÍ³µÄ½Ó¿Ú¡£
+## ä»‹ç»
+Facade Pattern éšè—ç³»ç»Ÿçš„å¤æ‚æ€§ï¼Œå¹¶å‘å®¢æˆ·ç«¯æä¾›äº†ä¸€ä¸ªå®¢æˆ·ç«¯å¯ä»¥è®¿é—®ç³»ç»Ÿçš„æŽ¥å£ã€‚
 
-ÀýÈç£¬ µ½ÒøÐÐ×Ô¶¯È¡¿î»úÈ¡Ç®¡£ Ö»ÓÐÒ»¸öwithdrawÑ¡Ïî£¬ µ«ÊÇÕâ¸öwithdraw±³ºóÓÐ¸´ÔÓµÄÂß¼­¡£
-1. Óà¶î¹»²»¹»¡£
-2. µ±Ç°È¡¿î»·¾³ÊÇ·ñ°²È«¡£
-3. Ïß³Ì°²È«ÎÊÌâ¡£
-4. ÃÜÂëÊÇ·ñÕýÈ·¡£
+ä¾‹å¦‚ï¼Œ åˆ°é“¶è¡Œè‡ªåŠ¨å–æ¬¾æœºå–é’±ã€‚ åªæœ‰ä¸€ä¸ªwithdrawé€‰é¡¹ï¼Œ ä½†æ˜¯è¿™ä¸ªwithdrawèƒŒåŽæœ‰å¤æ‚çš„é€»è¾‘ã€‚
+1. ä½™é¢å¤Ÿä¸å¤Ÿã€‚
+2. å½“å‰å–æ¬¾çŽ¯å¢ƒæ˜¯å¦å®‰å…¨ã€‚
+3. çº¿ç¨‹å®‰å…¨é—®é¢˜ã€‚
+4. å¯†ç æ˜¯å¦æ­£ç¡®ã€‚
 ...
 
+<<<<<<< HEAD
 facade pattern ¾ÍÊÇÒþ²ØÁË¸´ÔÓÐÔ£¬Ìá¹©¸øclientÒ»¸ö¼òµ¥µÄ½Ó¿Ú¹©Ê¹ÓÃ¡£
 
 ÔÚÊ¾ÀýÖÐ£¬ Ã¿Ò»´Îwithdraw£¬ ¶¼ÐèÒªÖ´ÐÐ3´Îcheck£º
@@ -18,3 +19,6 @@ facade pattern ¾ÍÊÇÒþ²ØÁË¸´ÔÓÐÔ£¬Ìá¹©¸øclientÒ»¸ö¼òµ¥µÄ½Ó¿Ú¹©Ê¹ÓÃ¡£
 µ±Èý´Îcheck¶¼Í¨¹ýµÄÊ±ºò£¬²Å¿ÉÒÔË³ÀûÈ¡Ç®¡£
 
 ÕâÈý´Îcheck£¬ ¾ÍÊÇwithdraw ÕâÒ»¡°½Ó¿Ú¡±±³ºóµÄ¸´ÔÓÂß¼­¡£
+=======
+facade pattern å°±æ˜¯éšè—äº†å¤æ‚æ€§ï¼Œæä¾›ç»™clientä¸€ä¸ªç®€å•çš„æŽ¥å£ä¾›ä½¿ç”¨ã€‚
+>>>>>>> refs/remotes/origin/master
